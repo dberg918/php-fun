@@ -19,14 +19,14 @@
 
 	<h3>Region</h3>
 	<p><select name="region">
-		<option value="hokkaido">Hokkaido</option>
-		<option value="tohoku">Tohoku</option>
-		<option value="kanto">Kanto</option>
-		<option value="chubu">Chubu</option>
-		<option value="kansai">Kansai</option>
-		<option value="chugoku">Chugoku</option>
-		<option value="shikoku">Shikoku</option>
-		<option value="kyushu">Kyushu</option>
+		<option value="Hokkaido">Hokkaido</option>
+		<option value="Tohoku">Tohoku</option>
+		<option value="Kanto">Kanto</option>
+		<option value="Chubu">Chubu</option>
+		<option value="Kansai">Kansai</option>
+		<option value="Chugoku">Chugoku</option>
+		<option value="Shikoku">Shikoku</option>
+		<option value="Kyushu">Kyushu</option>
 	</select></p>
 
 	<h3>Church Address</h3>
