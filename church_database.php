@@ -24,7 +24,7 @@
 	<th>Church Description</th>
 </tr>
 <?php
-	class TableRows extends RecursiveArrayIterator {
+	class TableRows extends RecursiveIteratorIterator {
 		function __construct($it) {
 			parent::__construct($it, self::LEAVES_ONLY);
 		}
