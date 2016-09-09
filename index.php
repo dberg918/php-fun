@@ -21,7 +21,7 @@ $query = $handler->query('SELECT churchname, denomination, prefecture, city,
 $query->setFetchMode(PDO::FETCH_CLASS, 'ChurchEntry');
 while($r = $query->fetch())
 {
-    $r->displayName();
+    $r->displayChurch();
 }
 ?>
 
