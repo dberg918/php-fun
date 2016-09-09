@@ -19,14 +19,53 @@
 
 	<h3>Prefecture</h3>
 	<p><select name="prefecture">
+		<option value="Aichi">Aichi</option>
+		<option value="Akita">Akita</option>
+		<option value="Aomori">Aomori</option>
+		<option value="Chiba">Chiba</option>
+		<option value="Ehime">Ehime</option>
+		<option value="Fukui">Fukui</option>
+		<option value="Fukuoka">Fukuoka</option>
+		<option value="Fukushima">Fukushima</option>
+		<option value="Gifu">Gifu</option>
+		<option value="Gunma">Gunma</option>
+		<option value="Hiroshima">Hiroshima</option>
 		<option value="Hokkaido">Hokkaido</option>
-		<option value="Tohoku">Tohoku</option>
-		<option value="Kanto">Kanto</option>
-		<option value="Chubu">Chubu</option>
-		<option value="Kansai">Kansai</option>
-		<option value="Chugoku">Chugoku</option>
-		<option value="Shikoku">Shikoku</option>
-		<option value="Kyushu">Kyushu</option>
+		<option value="Hyogo">Hyogo</option>
+		<option value="Ibaraki">Ibaraki</option>
+		<option value="Ishikawa">Ishikawa</option>
+		<option value="Iwate">Iwate</option>
+		<option value="Kagawa">Kagawa</option>
+		<option value="Kagoshima">Kagoshima</option>
+		<option value="Kanagawa">Kanagawa</option>
+		<option value="Kumamoto">Kumamoto</option>
+		<option value="Kyoto">Kyoto</option>
+		<option value="Kochi">Kochi</option>
+		<option value="Mie">Mie</option>
+		<option value="Miyagi">Miyagi</option>
+		<option value="Miyazaki">Miyazaki</option>
+		<option value="Nagano">Nagano</option>
+		<option value="Nagasaki">Nagasaki</option>
+		<option value="Nara">Nara</option>
+		<option value="Niigata">Niigata</option>
+		<option value="Oita">Oita</option>
+		<option value="Okayama">Okayama</option>
+		<option value="Okinawa">Okinawa</option>
+		<option value="Osaka">Osaka</option>
+		<option value="Saga">Saga</option>
+		<option value="Saitama">Saitama</option>
+		<option value="Shiga">Shiga</option>
+		<option value="Shimane">Shimane</option>
+		<option value="Shizuoka">Shizuoka</option>
+		<option value="Tochigi">Tochigi</option>
+		<option value="Tokushima">Tokushima</option>
+		<option value="Tottori">Tottori</option>
+		<option value="Toyama">Toyama</option>
+		<option value="Tokyo">Tokyo</option>
+		<option value="Wakayama">Wakayama</option>
+		<option value="Yamagata">Yamagata</option>
+		<option value="Yamaguchi">Yamaguchi</option>
+		<option value="Yamanashi">Yamanashi</option>
 	</select></p>
 
 	<h3>City</h3>
