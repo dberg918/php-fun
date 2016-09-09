@@ -6,7 +6,7 @@
 	$dbusername = "root";
 	$dbpassword = "pitestsite";
 	$dbname = "church_db";
-	$dbtable = "production";
+	$dbtable = "staging";
 
 	$churchname = $_POST["churchname"];
 	$denomination = $_POST["denomination"];
@@ -61,6 +61,7 @@ Please allow 1-2 weeks for your submission to be reviewed.
 <li>Service Information: <?php echo $servday . " at " . $servtime; ?></li>
 </ul>
 
+<a href="/church_form.php">back to form</a> | <a href="/">back to database</a>
 </section>
 </body>
 </html>
