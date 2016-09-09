@@ -13,15 +13,13 @@
 	<th>id</th>
 	<th>Church Name</th>
 	<th>Denomination</th>
-	<th>Region</th>
-	<th>Address 1</th>
-	<th>Address 2</th>
+	<th>Prefecture</th>
+	<th>City</th>
 	<th>Google Maps Link</th>
 	<th>Website URL</th>
 	<th>Service Day</th>
 	<th>Service Time</th>
-	<th>Service Language</th>
-	<th>Church Description</th>
+	<th>Contact</th>
 </tr>
 <?php
 	class TableRows extends RecursiveIteratorIterator {
@@ -46,7 +44,7 @@
 	$dbusername = "root";
 	$dbpassword = "pitestsite";
 	$dbname = "church_db";
-	$dbtable = "staging";
+	$dbtable = "production";
 
 
 	try {
